@@ -1,6 +1,5 @@
 # iremedy
-
-Tested on Ubuntu 16.04 (Firefox and Chrome)
+Tested on OS X, Ubuntu 18.04, Raspbian with Node 10.x & 11.x (Firefox and Chrome)
 ## Setup
 Clone the repo
 ```
@@ -9,13 +8,14 @@ git clone https://github.com/zohan/iremedy.git
 
 ## Install the project
 ```
-`npm install`
+cd iremedy
+sudo npm install
 ```
 
 ## Run the project
 
 ```
-`npm start`
+sudo npm start
 ```
 
 * Open `http://localhost:3000` on Firefox or Chrome.
